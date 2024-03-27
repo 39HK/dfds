@@ -1,0 +1,14 @@
+C:\Users\des_m\Desktop\Прога\Final Roguelike\bin\Debug\net8.0\Final Roguelike.exe
+C:\Users\des_m\Desktop\Прога\Final Roguelike\bin\Debug\net8.0\Final Roguelike.deps.json
+C:\Users\des_m\Desktop\Прога\Final Roguelike\bin\Debug\net8.0\Final Roguelike.runtimeconfig.json
+C:\Users\des_m\Desktop\Прога\Final Roguelike\bin\Debug\net8.0\Final Roguelike.dll
+C:\Users\des_m\Desktop\Прога\Final Roguelike\bin\Debug\net8.0\Final Roguelike.pdb
+C:\Users\des_m\Desktop\Прога\Final Roguelike\obj\Debug\net8.0\Final Roguelike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\des_m\Desktop\Прога\Final Roguelike\obj\Debug\net8.0\Final Roguelike.AssemblyInfoInputs.cache
+C:\Users\des_m\Desktop\Прога\Final Roguelike\obj\Debug\net8.0\Final Roguelike.AssemblyInfo.cs
+C:\Users\des_m\Desktop\Прога\Final Roguelike\obj\Debug\net8.0\Final Roguelike.csproj.CoreCompileInputs.cache
+C:\Users\des_m\Desktop\Прога\Final Roguelike\obj\Debug\net8.0\Final Roguelike.dll
+C:\Users\des_m\Desktop\Прога\Final Roguelike\obj\Debug\net8.0\refint\Final Roguelike.dll
+C:\Users\des_m\Desktop\Прога\Final Roguelike\obj\Debug\net8.0\Final Roguelike.pdb
+C:\Users\des_m\Desktop\Прога\Final Roguelike\obj\Debug\net8.0\Final Roguelike.genruntimeconfig.cache
+C:\Users\des_m\Desktop\Прога\Final Roguelike\obj\Debug\net8.0\ref\Final Roguelike.dll
